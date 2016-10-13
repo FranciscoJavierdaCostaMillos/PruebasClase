@@ -16,6 +16,7 @@ public class Pruebasclase {
      */
     public static void main(String[] args) {
         int prueba = 96;
+        int cambiosvarios = 69;
     }
     
 }
