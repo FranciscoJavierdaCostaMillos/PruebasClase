@@ -18,6 +18,8 @@ public class Pruebasclase {
         int prueba = 96;
         int cambiosvarios = 69;
         int hola=97887;
+        int arpontorpedo = 69696969;
+        
     }
     
 }
